@@ -25,6 +25,8 @@
 * Java 8 ou superior instalado
 * IntelliJ IDEA ou Eclipse
 * Importar o proejto na IDE
+
+
+## Pós-Condição para a execução do Projeto:
+
 * Executar(Run) o arquivo.feature do pacote features
-
-
