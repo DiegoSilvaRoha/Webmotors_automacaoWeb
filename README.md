@@ -1,8 +1,8 @@
 
-#Sobre o projeto 😄
+## Sobre o projeto 😄
 
 
-##Está dividido da seguinte forma:
+## Está dividido da seguinte forma:
 
 
 * Pacote 'pages:Onde temos o uso implícito de PageObjects (desing Parttern), ou seja, uma separação clara entre o código de teste e o código específico da página.
@@ -13,18 +13,20 @@
 
 
 
-##Dependências envolvidas no projeto:
+## Dependências envolvidas no projeto:
 
 * Cucumber 
 * Java
 * Selenium
 * JUnit
 
-##Pré-Condição para a execução do Projeto:
+## Pré-Condição para a execução do Projeto:
 
 * Java 8 ou superior instalado
 * IntelliJ IDEA ou Eclipse
 * Importar o proejto na IDE
+
+
+## Pós-Condição para a execução do Projeto:
+
 * Executar(Run) o arquivo.feature do pacote features
-
-
